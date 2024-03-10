@@ -1,0 +1,15 @@
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\bin\Debug\net8.0\tpmodul4_1302223050.exe
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\bin\Debug\net8.0\tpmodul4_1302223050.deps.json
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\bin\Debug\net8.0\tpmodul4_1302223050.runtimeconfig.json
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\bin\Debug\net8.0\tpmodul4_1302223050.dll
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\bin\Debug\net8.0\tpmodul4_1302223050.pdb
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\obj\Debug\net8.0\tpmodul4_1302223050.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\obj\Debug\net8.0\tpmodul4_1302223050.AssemblyInfoInputs.cache
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\obj\Debug\net8.0\tpmodul4_1302223050.AssemblyInfo.cs
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\obj\Debug\net8.0\tpmodul4_1302223050.csproj.CoreCompileInputs.cache
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\obj\Debug\net8.0\tpmodul4_1302223050.sourcelink.json
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\obj\Debug\net8.0\tpmodul4_1302223050.dll
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\obj\Debug\net8.0\refint\tpmodul4_1302223050.dll
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\obj\Debug\net8.0\tpmodul4_1302223050.pdb
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\obj\Debug\net8.0\tpmodul4_1302223050.genruntimeconfig.cache
+Y:\Github\KPL\Modul4\tpmodul4_1302223050\tpmodul4_1302223050\obj\Debug\net8.0\ref\tpmodul4_1302223050.dll
